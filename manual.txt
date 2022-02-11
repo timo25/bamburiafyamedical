@@ -1,0 +1,12 @@
+activate the virtualenvironment in the command prompt
+source venv/bin/activate-linux/windows
+
+
+run the web app in the cmd
+python manage.py runserver
+
+http://127.0.0.1:8000-type this ip in the browser to view the app
+
+admin user name:
+
+
